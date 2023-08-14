@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Savita-savvy
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning different computer languages
+- 👀 I’m interested in Cloud computing and Devops
+- 🌱 I’m currently learning about different cloud technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
